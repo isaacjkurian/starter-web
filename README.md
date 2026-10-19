@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 This is a simple web project that can be on any web server or local file system.
+
+### Copyright
+This is a copyrighted thing
