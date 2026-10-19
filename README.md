@@ -14,3 +14,6 @@ This is a simple web project that can be on any web server or local file system.
 
 ### Copyright
 This is a copyrighted thing. Don't use to abuse
+
+### Comments
+I am happy to be learning git
