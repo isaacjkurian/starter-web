@@ -4,6 +4,7 @@
 # TEAM
 
     Isaac Kurian isaac@awesome.org
+	 Kurian Jacob kurian@awesome.org
 
 # THANKS
 
