@@ -10,5 +10,4 @@ This example shows different parts of the Git Repository and various commands us
 Sample website with plenty of files for demos
 
 ## Deployment
-
-## How to Contribute
+This is a simple web project that can be on any web server or local file system.
