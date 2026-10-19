@@ -17,3 +17,5 @@ This is a copyrighted thing. Don't use to abuse
 
 ### Comments
 I am happy to be learning git
+
+The next thing to learn is staging.
